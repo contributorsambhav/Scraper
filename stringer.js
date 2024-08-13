@@ -1,4 +1,5 @@
-import fs from "fs"
+import fs from "fs";
+
 // Function to read data from data.json
 function readJsonFile(filePath) {
     return new Promise((resolve, reject) => {
@@ -12,13 +13,13 @@ function readJsonFile(filePath) {
     });
 }
 
-// Function to append data to data.txt
-function appendToTextFile(filePath, content) {
+// Function to write data to data.txt
+function writeToTextFile(filePath, content) {
     return new Promise((resolve, reject) => {
-        // Replace \n with actual newline characters
-        const formattedContent = content.replace(/\\n/g, '\n');
-        
-        fs.appendFile(filePath, formattedContent + '\n', 'utf8', (err) => {
+        // Remove all \n characters
+        const formattedContent = content.replace(/\n/g, '');
+
+        fs.writeFile(filePath, formattedContent, 'utf8', (err) => {
             if (err) {
                 reject(err);
             } else {
@@ -33,24 +34,22 @@ async function main() {
     try {
         const jsonData = await readJsonFile('data.json');
         
+        let content = '';
+        
         if (Array.isArray(jsonData)) {
-            // If jsonData is an array, iterate over its elements
-            for (let value of jsonData) {
-                await appendToTextFile('data.txt', value);
-            }
+            // If jsonData is an array, concatenate its elements
+            content = jsonData.join('');
         } else if (typeof jsonData === 'object') {
-            // If jsonData is an object, iterate over its values
-            for (let key in jsonData) {
-                if (jsonData.hasOwnProperty(key)) {
-                    await appendToTextFile('data.txt', jsonData[key]);
-                }
-            }
+            // If jsonData is an object, concatenate its values
+            content = Object.values(jsonData).join('');
         } else if (typeof jsonData === 'string') {
-            // If jsonData is a string, append it directly
-            await appendToTextFile('data.txt', jsonData);
+            // If jsonData is a string, use it directly
+            content = jsonData;
         }
         
-        console.log('Data appended to data.txt successfully!');
+        await writeToTextFile('data.txt', content);
+        
+        console.log('Data written to data.txt successfully!');
     } catch (error) {
         console.error('Error:', error);
     }
