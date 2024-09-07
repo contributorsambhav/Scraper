@@ -16,10 +16,7 @@ function readJsonFile(filePath) {
 // Function to write data to data.txt
 function writeToTextFile(filePath, content) {
     return new Promise((resolve, reject) => {
-        // Remove all \n characters
-        const formattedContent = content.replace(/\n/g, '');
-
-        fs.writeFile(filePath, formattedContent, 'utf8', (err) => {
+        fs.writeFile(filePath, content, 'utf8', (err) => {
             if (err) {
                 reject(err);
             } else {
@@ -37,14 +34,14 @@ async function main() {
         let content = '';
         
         if (Array.isArray(jsonData)) {
-            // If jsonData is an array, concatenate its elements
-            content = jsonData.join('');
+            // If jsonData is an array, append each element followed by a newline
+            content = jsonData.join('\n') + '\n'; // Add a newline after the last item
         } else if (typeof jsonData === 'object') {
-            // If jsonData is an object, concatenate its values
-            content = Object.values(jsonData).join('');
+            // If jsonData is an object, append each value followed by a newline
+            content = Object.values(jsonData).join('\n') + '\n'; // Add a newline after the last value
         } else if (typeof jsonData === 'string') {
-            // If jsonData is a string, use it directly
-            content = jsonData;
+            // If jsonData is a string, use it directly with a newline
+            content = jsonData + '\n';
         }
         
         await writeToTextFile('data.txt', content);
