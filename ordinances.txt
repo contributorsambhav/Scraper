@@ -1,61 +1,43 @@
 Ordinances
 for
 Bachelor Programmes
-
 ~S NO
-
 WE Ulalllercbl A eIo1 Sala
 Sal VZ- 177005 (fearre Fee) se
-
 National Institute of Technology Hamirpur
 Hamirpur-177005(Himachal Pradesh), India
 Ordinances
 For
 Bachelor Programmes
-
 (B Tech/B Arch/Dual Degree)
-
 Revised in the 39 Senate Meeting Held on 22.09.2023
-
 ~S NO
-
 WE Ulalllercbl A eIo1 Sala
 SalVUZ- 177005 (ferret Feet) SIE
-
 National Institute of Technology Hamirpur
 Hamirpur-177005(Himachal Pradesh), India
-
 http://www.nith.ac.in
 National Institute of Technology Hamirpur
-
 Preface
-
 The regulations as provided herein “Ordinances for Bachelor Programmes” detail the procedures and
 requirements of Bachelor programmes being offered by NIT Hamirpur. The provisions contained in these
 ordinances govern the policies and procedures on the admission of students, registration for courses,
 imparting instructions of courses, conducting examinations, evaluation and award of degree based upon
 performance of students.
-
 Whereas these ordinances shall also ensure the quality education in Architecture stream, therefore, the
 gazette notifications issued by Council of Architecture from time to time are made part of these ordinances.
-
 These Ordinances shall supersede all the earlier set of rules and regulations of the Institute, with all the
 amendments thereto, and shall be binding on all the bachelor programme students.
-
 The cases of the students admitted in earlier years, shall be dealt appropriately and carefully, so as to
 ensure that they are not subjected to any unfair situation whatsoever, although they are required to conform
 to these Ordinances.
-
 It shall be ensured that all the policies and procedures given in these Ordinances are achered to and
 implemented without any change and with all fairness. While handling an issue, if there is no specific
 mention, the same shall be dealt suitably.
-
 It is in the interest of the student that he/she should be fully familiar with the academic system of the
 Institute and provisions contained in these Ordinances.
-
 Ordinances for Bachelors Programmes il
 National Institute of Technology Hamirpur
-
 CONTENTS
 Abbreviations vii
 Definitions vili-ix
@@ -82,13 +64,9 @@ Definitions vili-ix
 5.2 Reservation Policy in Admission 7
 5.3 Withdrawal of Admission 7
 5.4 Cancellation of Admission 7
-
 Ordinances for Bachelors Programmes
-
 ill
-
 National Institute of Technology Hamirpur
-
 6. REGISTRATION IN BACHELOR PROGRAMME 7
 6.1 Registration Procedure 7
 6.2 Late Registration 8
@@ -106,12 +84,10 @@ National Institute of Technology Hamirpur
 7.6 Starting of New Bachelor Programme 10
 8. EVALUATION AND GRADING SYSTEM FOR BACHELOR PROGRAMME 11
 8.1 Evaluation System 11
-
 8.1.1 Evaluation of Theory/Practical/Drawing/Engineering | Workshop/
 Programming & Coding Skills/ Studio Courses "1
 8.1.2 Evaluation of Major Project 13
 8.13 Summer/Industrial Training/Onsite/Office Training/Dissertation 14
-
 /Architecture Design Thesis
 8.1.4 Evaluation of General Proficiency 15
 8.1.5 Student Activity (LA/CA) Courses for 4 Semester B.Tech. Programmes 16
@@ -120,9 +96,7 @@ Programming & Coding Skills/ Studio Courses "1
 8.4 Improvement in CGPI 18
 8.5 Supplementary Examination 19
 Ordinances for Bachelors Programmes iv
-
 National Institute of Technology Hamirpur
-
 8.6 Grade Report Card and Transcript 19
 9. ACADEMIC PERFROMANCE REQUIREMENTS FOR BACHELOR DEGREE 19
 9.1 Attendance Requirement 19
@@ -149,11 +123,8 @@ Award of Degree
 13.2 Disciplinary Actions and Related Matter 29
 13.3 Unfair Means 26
 13.4 Stay at Hostel 27
-
 Ordinances for Bachelors Programmes
-
 National Institute of Technology Hamirpur
-
 13.5 Appeal Against Termination 27
 14. AWARD OF STIPENDS AND SCHOLARSHIPS 27
 15. AWARD OF PRIZES AND MEDALS 28
@@ -176,9 +147,7 @@ BPP-09 Form for Reporting the Unfair Means Cases (UMCs) X
 BPP-10 Application for Mercy Appeal Against Termination Xll
 RW Guidelines for Project Report Writing Xlll
 Ordinances for Bachelors Programmes Vi
-
 National Institute of Technology Hamirpur
-
 Abbreviations
 BoG
 BoD
@@ -200,125 +169,77 @@ SBPC
 SDPC
 SGPI
 SMPC
-
 UMC
-
 Board of Governors
-
 Board of Discipline
 Cumulative Grade Point Index
 Council of Architecture
-
 Direct Admission of Students Abroad
-
 Departmental Bachelors Programme Committee
 Departmental Doctoral Programme Committee
-
 Departmental Masters Programme Committee
-
 Grade Moderation Committee
 Government of India
-
 Head of the Department
-
 Indian Council for Cultural Relations
 Ministry of External Affairs
-
 Ministry of Education (Shiksha Mantralaya)
 National Education Policy-2020
-
 Multiple Entry/Multiple Exit Policy
-
 Senate Bachelors Programme Committee
 Senate Doctoral Programme Committee
 Semester Grade Point Index
-
 Senate Masters Programme Committee
-
 Unfair Means Committee
-
 Ordinances for Bachelors Programmes
-
 vii
 National Institute of Technology Hamirpur
-
 Definitions
-
 Unless the context requires, otherwise,
-
 « “Applicant” shall mean an individual who applies for admission to any Under Graduate (UG) or Dual Degree
 programme of the Institute
-
 = “Board of Governors” shall mean Board of Governors of the Institute
-
 = “CGPI” shall mean the Cumulative Grade Point Index of a student
-
 = “Council” shall mean the Council of the National Institutes of Technology
-
 = “Course” shall mean a curricular component identified by a designated codenumber and a title
-
 = “Course Coordinator” shall mean a faculty member who shall have full responsibility for the course,
 coordinating the work of other faculty member(s) involved in that course, including examinations and the award
 of grades
-
 = “CSAB” shall mean Central Seat Allocation Board constituted by MoE, Government of India
-
 = “Dean (Academic)” shall mean the Dean(Academic), NIT Hamirpur
-
 = “Center” would mean any academic Centre imparting education and/or pursuing research
-
 = “Department” would mean any academic Department or a Centre imparting education and/or pursuing research
-
 = “EWS/SC/ST/OBC” shall mean the economically weaker sections, scheduled castes, scheduled tribes and
 other backward class (non-creamy layer) as notified by the Government of India from time to time
-
 = “DBPC” shall mean the Departmental Bachelors Programme Committee
 =  “DDPC” shall mean the Departmental Doctoral Programme Committee
 = “DMPC” shall mean the Departmental MastersProgramme Committee
-
 = “Degree” shall mean the B Tech/B Arch/Dual degree and such other degrees of the Institute as may be
 approved by the Board of Governors
-
 = “Educational Institution” shall mean those institutions which offer Bachelor and/or higher degrees in Science,
 Engineering/Technology/ Architecture, Management, Humanities, etc.
-
 = “Grade Moderation Committee” shall mean the committee appointed by the Department to moderate grades
 awarded by the course coordinators indifferent courses in a semester ata given level of a curriculum
-
 « “Institute” or “NITH” shall mean the National Institute of Technology Hamirpur
-
 = = “JoSAA” shall mean Joint Seat Allocation Authority constituted by MoE, Government of India
 = “MoE” shall mean Ministry of Education (Shiksha Mantralaya), Government of India
-
 = “CoA” shall mean Council of Architecture, Government of India
-
 = “SBPC" shall mean the Senate Bachelors Programme Committee of the Institute
-
 =  “SDPC" shall mean the Senate Doctoral Programme Committee of the Institute
-
 =  “SMPC" shall mean the Senate Masters Programme Committee of the Institute
-
 Ordinances for Bachelors Programmes Vili
 National Institute of Technology Hamirpur
-
 “SGPI” shall mean the Semester Grade Point Index of a student
-
 “Sponsored Candidate” shall mean a Bachelor's degree programme student receiving full financial support
 from the Sponsoring Organization
-
 “Supervisor/Guide” shall mean a faculty member of the Institute,and/or from outside the Institute approved by
 the DBPC and/or SBPC and/or SENATE, to supervise the student for the designated academic activity
-
 “Synopsis” shall mean the summary of the work done towards project which shall be used for evaluation
-
 “Course Curriculum” shall mean the Course Structure and Syllabi for a bachelor programme approved by the
 SENATE
-
 Ordinances for Bachelors Programmes ix
 National Institute of Technology Hamirpur
-
 1. INTRODUCTION
-
 Education means acquisition of knowledge and experience as well as develooment of skills and attitude
 which is required for the growth of modern civilization. The aim of the education at the undergraduate level
 is to build on the knowledge gained by an undergraduate student through the school curriculum, by
@@ -343,9 +264,7 @@ with all fairness. While considering an issue, if the Bachelor Ordinances does n
 something, the same shall be forwarded by DBPC to Chairman, Senate through SBPC for consideration
 and further decision. The decision of the Chairman, Senate with regard to rulings related to Ordinances for
 Bachelor Programmes shall be final.
-
 2. BACHELOR PROGRAMMES AND GOALS
-
 The Institute shall offer the Bachelor Programmes (B Tech/B Arch) in the branches as enlisted in
 Annexure-BP#l or any other branch as approved by Board of Governors (BoG) on the recommendation of
 SENATE from time to time. The number of seats in each branch of Bachelor Programme shall be decided
@@ -356,33 +275,22 @@ any other branch as approved by BoG on the recommendation of SENATE from time to
 the Dual Degree Programme shall be governed by Bachelors Ordinances until he/she registers for M Tech
 Dissertation. In the normal course, it means until the beginning of 9!" semester. After the student registers
 for M Tech Dissertation, Masters Ordinances shall become applicable.
-
 The goals of the Bachelor/Dual Degree Programmes at the National Institute of Technology Hamirpur are
 as follows:
-
 Ordinances for Bachelors Programmes 1
 National Institute of Technology Hamirpur
-
 e To develop the scientific, engineering, Architectural and managerial manpower of the highest quality
 to cater to the needs of the industry, R&D organizations and academia
-
 e Toprovide opportunity to students to do research in cutting edge areas
-
 e Tobe arole model and leader of educational institutions in the country
-
 e Tocultivate high standards of performance in teaching and research
-
 e Toprovide a broad grasp of the fundamental principles of the scientific, technological and managerial
 methods through its curriculum
-
 e Toprovide an innovative ability to solve new and open problems
-
 e Toprovide a capacity to learn continually and interact with multi-disciplinary groups
-
 e To develop the students with a capability for free and objective enquiry, courage and integrity,
 awareness and sensitivity to the needs and aspirations of society and doing independent research in
 their chosen areas
-
 With above goals in mind, the Bachelor/Dual Degree Programmes are designed to include components
 like theory and practical course works, seminars and projects, through which a student can develop
 his/her concepts and intellectual skills. The procedures and requirements stated in the ordinances embody
@@ -391,47 +299,33 @@ Bachelor/Dual Degree Programmes. Within this general framework, the individual D
 may impose additional requirements to serve their particular academic goals with the approval of
 SENATE. Hereafter, Departments and Centers imparting education and/or pursuing research shall be
 referred to as Department
-
 3. ACADEMIC BODIES FOR BACHELOR PROGRAMMES
-
 The Institute shall have different academic bodies so as to plan and handle the academic matters
 pertaining to Bachelor/Dual Degree Programmes.
-
 3.1. Senate - As per clause 14 of The NIT Act-2007.
 3.2 Office of the Dean (Academic)
-
 The office of the Dean (Academic), called the Academic Section, is responsible for the implementation of
 the decisions taken on academic matters by the SENATE and other Academic bodies. Its functions are as
 follows:
-
 ° Receives, processes and maintains all records relating to Bachelor, Master and Doctoral
 Programmes including curricula, courses offered, academic calendar, registration, leave,
 examinations, grades and award of degrees and prizes
-
 e — Disseminates information pertaining to all relevant academic matters
-
 e — Issues necessary Memoranda/Orders related to Academics
-
 ° Acts as a channel of communication between the students, Departments and other
 Academic bodies of the Institute
-
 Academic Section also assists the Academic bodies and its subcommittees in their functioning. Dean
 (Academic) is the main functionary who ensures the smooth functioning of the academic programmes as
-
 Ordinances for Bachelors Programmes 2
 National Institute of Technology Hamirpur
-
 approved by the SENATE, executes the policies and decisions of the SENATE and other Academic
 bodies, and ensures that all records and files are maintained. The Bachelor Programme Section of the
 office of Dean (Academic) shall assist the Senate Bachelors’ Programme Committee in its functioning and
 updates/maintains the records related to Bachelor Programme.
-
 3.3 Standing Committee of SENATE
-
 A Standing Committee of SENATE shall assist the Chairman, Senate in academic matters within the
 purview of SENATE which are urgent in the interest of the Institute from time to time. The composition of
 the Standing Committee of SENATE shall be as under:
-
 1. Dean (Academic) Chairperson
 2. Dean (Student Welfare) Member
 3. Director’s Nominee from Amongst Senate Members (2) Members
@@ -441,45 +335,30 @@ to the Department
 6. Chairperson, SMPC Member
 7. Chairperson, SDPC Member
 8. Registrar Member Secretary
-
 The Chairman, Senate shall mark the academic matters of urgent nature to the Chairperson/Member
 Secretary of above Committee for discussion and the recommendations of above Committee shall be put
 up to the Chairman, Senate for consideration and approval. The approved matter will be implemented and
 further ratified in the next SENATE meeting.
-
 3.4 Senate Bachelors’ Programme Committee
-
 The Senate Bachelors’ Programme Committee (SBPC) shall assist the SENATE in all academic matters
 related to the Bachelor/Dual Degree Programmes which operates through the Department Bachelors
 Programme Committees (DBPCs).
-
 3.4.1 Constitution of SBPC
 The Senate Bachelors Programme Committee (SBPC) shall have the following composition:
-
 A faculty member nominated by the Chairman, Senate, preferably a Senate .
-
 1. Chairperson
 member
-
 2. | Convener, DBPC from all Academic Departments Members
-
 3. | Immediate former Chairperson, SBPC, if not already a member Member
-
 4. | Chairperson, SMPC Member
-
 5. | Faculty member nominated by Chairman, Senate (from Senate Members) Member
-
 6. Two Bachelor Students (one boy and one girl from third year to be nominated by Members
 the Dean (Academic) on the basis of merit)
-
 7. | Faculty member nominated by Chairman, Senate Member Secretary
-
 Ordinances for Bachelors Programmes 3
 National Institute of Technology Hamirpur
-
 The tenure of the committee and the Chairperson, SBPC shall be normally of two years except for student
 members. The SBPC shall meet at least two times in every semester.
-
 3.4.2 Functions and Jurisdiction of SBPC
 The functions of the SBPC consist primarily of general policy determination, coordination and review, but
 the Senate shall retain the power of final decision. In the discharge of its responsibilities the Committee
@@ -498,14 +377,11 @@ e Approval for the modifications/changes in the contents of the courses recommen
 The same shall be reported in the forthcoming Senate.
 e Continuous evaluation of academic performance of programmes
 e Other related matters as may be referred to it by the SENATE
-
 3.5 Departmental Bachelors’ Programme Committee
 Each academic department shall have a Departmental Bachelors Programme Committee (DBPC) for
 dealing the academic matters of Bachelors/Dual Degree Programmes of the Department.
-
 3.5.1 Constitution of DBPC
 The DBPC shall have the following constitution:
-
 . Head of the Department (HoD)
 '. |Chaiperson, DBPC (Ex-officio Chairperson)
 To be nominated by HoD in
@@ -521,26 +397,19 @@ Member
 Professor)
 (iii) One Assistant Professor Member
 (iv) One Professor/Associate Professor from other Department Member
-
 Ordinances for Bachelors Programmes 4
-
 National Institute of Technology Hamirpur
-
 (v) Two Bachelor Programme Students (from third year to be
 nominated by the HoD on the basis of merit) for a period of
 one year
-
 Members
-
 “In case sufficient faculty members are not there in a particular Department, Chairman, Senate may
 nominate faculty from other Departments of the Institute as member of the DBPC.
-
 The DBPC shall be proposed by the HoD in consultation with the Department Faculty Board (DFB) and
 shall be approved by the Chairperson, SBPC. The term of the Committee shall be two years, preferably,
 starting from the month of July. The student members shall not participate when the cases of academic
 evaluation of the concerned students are being considered, although the students’ opinion might be
 sought prior to taking any decision.
-
 3.5.2 Responsibilities of DBPC
 Following are the responsibilities of DBPC:
 e Monitoring and maintaining quality of teaching/instructions to students
@@ -559,60 +428,43 @@ e Preparation for the evaluation/accreditation of academic programmes
 e Any other work assigned to it by SBPC/Dean (Academic\/SENATE
 The Chairperson, DBPC is expected to hold the committee meetings regularly and to keep record of its
 decisions. DBPC shall meet at least two times in an academic semester.
-
 Regarding preparation/modification in syllabus and course curriculum pertaining to B. Tech./B.Arch./Dual
 Degree Programmes of the Institute, three members from the Field of Practice/Academia are to be
 included in the constituted DBPC and shall be named as Board of Academic Studies (BoAS) of the
 concerned Department.
-
 4. ACADEMIC SESSION AND ACADEMIC CALENDAR
-
 All the academic activities and other important co-curricular and extra-curricular events of the insitute shall
 follow a specified timelines in the academic year.
-
 Ordinances for Bachelors Programmes 5
 National Institute of Technology Hamirpur
-
 4.1. Academic Session
-
 The academic session of the Institute is divided into two semesters each of approximately eighteen weeks
 duration. The semester timeline is defined in the Academic Calendar and is broacly the following:
 Semester | (Odd Semester): July to December.
-
 Semester Il (Even Semester): January to June.
-
 Each regular semester (odd and even) shall be for fourteen weeks for academic instructions. Generally,
 the last two weeks of each semester shall be earmarked for the End Semester Examination and one week
 during the semester for Mid Semester Examination.
-
 4.2. Academic Calendar
-
 The exact dates of all the important events, such as orientation, registration, late registration,
 commencement and end of the classes, submission of documents, examinations, submissions of grades,
 vacation, mid-semester break, etc., during the Academic Session shall be specified in the Academic
 Calendar of the Institute. The SENATE shall approve the Academic Calendar prior to start of each
 Academic Session.
-
 3. | ADMISSION INBACHELOR PROGRAMME
-
 The admission to eligible candidates as a student into an institution is carried out centrally by an agency
 entrusted by MoE in various degree programmes.
-
 5.1. Admission Procedure
 The admissions to various Bachelor Programmes (B Tech, B Arch, and Dual Degree) shall be made once
 a year normally during June-July.
-
 5.1.1 Centralized Counseling
-
 These admissions to various Bachelor Programmes (B Tech, B Arch and Dual Degree) shall be made
 through centralized counseling process/bodies notified by the MoE, Government of India (Gol) from time
 to time. The admissions shall be made on the basis of performance in all India level examination
 conducted by agency notified by MoE, Gol from time to time. All the details are normally made available
 on the website of these bodies/agencies and candidates are required to follow the prescribed procedure.
 After the completion of centralized seat allotment, the candidates are required to report in the Institute.
-
 5.1.2 Admissions in Bachelors’ Programme under DASA/ICCR/MEA/Study in India etc.
-
 Admissions of Foreign Nationals/Persons of Indian Origin/Non-Resident Indians /Overseas Citizen of India
 can be made to various Bachelors’ programmes under Direct Admission of Students Abroad (DASA)
 scheme of MoE. Further the admission can be made under the Cultural Exchange Fellowship Programme
@@ -620,30 +472,22 @@ of Gol, administered by the Indian Council of Cultural Relations (ICCR), Ministr
 Study in India Programme of Gol, or any other scheme of Gol etc. as per rules of respective scheme. The
 seats under all these schemes are over and above the sanctioned seats. The admission process is
 handled by coordinating institute who is entrusted the responsibility by MoE.
-
 Ordinances for Bachelors Programmes 6
 National Institute of Technology Hamirpur
-
 5.2 Reservation Policy in Admission
 Reservation policy as prescribed by Gol from time to time shall be applicable.
-
 5.3 Withdrawal of Admission
 The Institute will consider any request for withdrawal of admission if such request is made in accordance
 with the following prescribed rules:
-
 () Any student admitted to any of the B.Tech./B.Arch./Dual Degree programmes offered by the
 Institute may apply for withdrawal of his/her admission at any time during the academic year of
 admission or later
-
 (ii) | Application for withdrawal must be made in the prescribed format (Annexure: BPP-03) duly
 signed by the student and his/her parent/guardian
-
 (ii) | The application must be routed through the concerned Department, whenever applicable (in all
 cases after closing of the admission process during first semester)
 (iv) Refund of fee to such students will be made as per Institute refund rules
-
 5.4 Cancellation of Admission
-
 All students admitted to any programme shall submit copies of their mark-sheets, transfer/migration
 certificate, etc. of the qualifying examination and other documents by the last specified date for the
 purpose in Admission Information Brochure/Academic Calendar. Chairman, Senate on recommendation of
@@ -651,57 +495,43 @@ Dean (Academic) may cancel the admission of any student who fails to submit the 
 by the specified date or to meet other stipulated requirement(s). The Chairman, Senate may also cancel
 the admission at any later stage if it is found that the student had supplied some false information or
 suppressed relevant information while seeking admission.
-
 6. REGISTRATION IN BACHELOR PROGRAMME
-
 A student is mandatorily required to register in every semester in person as per schedule mentioned in the
 Academic Calendar for the courses that he/she intends to pursue in that semester after depositing the
 requisite fee. The registration will be coordinated at the Department level under the supervision of the
 Head of that respective Department. Whereas, for the first time registration in the programme the institute
 registration committee, duly notified by the Dean (Academic), will complete the entire process.
-
 6.1 Registration Procedure
 1. The registration process involves payment of fees and clearance of outstanding dues (if any), signing
-
 of the Registration Roll in person, and submitting a duly filled/completed Registration Card. This
 process may be partially/completely online.
-
 As a special case, the B Tech and B Arch students proceeding for Internship and Office Training of
 one semester respectively (in 8'"/9'" semester) may be relaxed the condition of in person registration
 and shall be allowed to do the needful with regard to registration before leaving the Institute Campus
 for Internship/Office Training. The OIC (T&P) of the Department shall be the Convener registration for
 such students and all such applications/representations shall be dealt and approved by the concerned
-
 Ordinances for Bachelors Programmes 7
 National Institute of Technology Hamirpur
-
 HOD with a copy of the decision to the Dean(Academic). The students of Dual Degree Programme
 can also avail such facility for their registration in the 10 Semester.
-
 2. All the students, excluding those who are on authorized leave, shall continue to register in the
 following semesters till they complete their programme.
-
 3. The candidates admitted to the Institution in their first year in any programme are required to submit
 certificates/documents of having passed the qualifying examination and other documents by the last
 date given in the Admission Information Brochure/Academic Calendar to get their registration
 regularized.
-
 4. Any student who does not qualify the Architectural design course in a semester will not be registered
 in next semester. However, such a student can avail a special chance to appear again, before the
 date of registration in next semester (in December), for clearing the course. This provision will be
 applicable exclusively for B Arch students as per the CoA regulations.
-
 The sole responsibility for Registration shall rest with the student concerned.
-
 6.2 Late Registration
 If for any compelling reasons beyond the control of an individual, a student is unable to register on the day
-
 of registration, he/she will be allowed to register till the last date of registration specified in the Academic
 Calendar (which is generally about one week from the date of registration). Any student registering late
 shall have to pay Late Fee as decided by the SENATE from time to time. However, in genuine cases
 supported by the authenticated documents, the late fee can be waived off by the Dean (Academic) on the
 recommendation of concerned HoD on case to case basis.
-
 In rare exceptional cases of Industrial Training/Internship outside India, Chairman, Senate may give prior
 permission to a student for late registration without Late Fee provided that the case is recommended by
 the concerned DBPC based on genuineness and this permission is obtained before proceeding for
@@ -710,47 +540,35 @@ weeks after initial date of registration (i.e. date without Late Fee) specified 
 this case, it will be the sole responsibility of the student to maintain requisite level of attendance
 requirement and his/her attendance shall be counted from the Last Date of Late Registration (i.e. date with
 Late Fee) mentioned in the Academic Calendar.
-
 Only in very exceptional cases, a student may be allowed to register after Last Date of Late Registration
 with the permission of Chairman, Senate on the recommendation of concerned HoD and Dean (Academic)
 on case to case basis.
-
 6.3 Changing Registration of Elective Courses
 The last date for changing registration of elective courses will be the last date of late registration as
-
 specified in the Academic Calendar and no change will be allowed after this date. The final list of
 registered candidates in a particular elective will be sent by concerned HoD to Academic Section for
 record.
-
 Ordinances for Bachelors Programmes 8
 National Institute of Technology Hamirpur
-
 6.4 Multiple Entry/Multiple Exit Policy of NEP-2020
-
 The enrolled Bachelors’ students may opt for exiting the programme at any stage as per the ME/ME policy
 of NEP-2020. The students need to apply for in the parent department for exiting the programme
 (Annexure: BPP-04). The DBPC will recommend the case to Dean (academic) for final approval and
 notification. Such candidates shall be allowed to join back only with the approval of Chairman Senate and
 have to register in the same semester in the subsequent year during the registration schedule for the
 completion of degree.
-
 6.5 Cancellation of Registration
 Registration in a semester shall stand cancelled at any stage, if the student fails to fulfill the laid down
-
 criteria for registration in that semester. The concerned DBPC is supposed to recommend such cases for
 the approval of Chairman, Senate through Chairperson, SBPC and Dean (Academic). The Dean
 (Academic) office will issue the notice for cancellation of registration after approval.
-
 7. COURSES OF STUDY FOR BACHELOR PROGRAMME
-
 As per the NEP-2020 guidelines, students will be the architect of their curriculum, accordingly the
 curriculum structure for B Tech/B Arch/Dual degree programmes have been framed. There is variety of
 courses namely; Institute Core/Elective, Discipline Core/Elective, Stream Core/Elective, Interdisciplinary
 courses as well as MOOCs/SWAYAM, LA/CA courses for which each student has to register in each
 semester as per the course curriculum of the programme.
-
 7.1. Course Curriculum
-
 The B Tech/B Arch/Dual Degree course curriculum shall consist of course structure and course syllabi.
 Further course structure consists of list of core and elective theory courses and practical as well as
 drawing courses in basic sciences, engineering sciences, humanities and social sciences and
@@ -760,40 +578,28 @@ Departments may organize educational tours and training as well. Each student is
 the courses specified in course structure of respective branch. The course curriculum of a programme
 consisting of course structure and course syllabi shall be approved by the SENATE from time to time on
 the recommendation of SBPC through DBPC.
-
 In general, the medium of instructions at National Institute of Technology Hamirpur shall be English.
-
 7.2. Semester Load
-
 A student shall register for various nature of courses every Semester as per the approved course structure
 of respective programme and branch. Each course carries a weight in terms of credit units depending
 upon the nature of the course (theory/practical/Drawing/studios/workshops/design projects or thesis)
 which, in turn, is determined by the number of contact hours that a student is expected to devote per
 week. Each course along with its weight in terms of credits shall be shown in approved curriculum. Only
 approved courses of a course curriculum shall be offered during any Semester.
-
 Ordinances for Bachelors Programmes 9
 National Institute of Technology Hamirpur
-
 7.3. Provisions for Minor and Dual/Integrated degrees
-
 7.3.1. Degree with Minor
-
 7.3.2 Dual/Integrated Degree
-
 The above matters (7.3, 7.3.1, 7.3.2) are deferred for the time being and shall be decided in the
 forthcoming Senate meeting.
-
 7.4 Audit Courses
-
 A student may audit a course in addition to the prescribed academic load requirement with the permission
 of the concerned Head of Department. There will, however, be no obligation on the part of Department to
 reschedule the time table if any clash arises. Under this arrangement, the student is simply auditing the
 course and the grade awarded to him/her in that course shall be entered in his/her Grade Card, but shall
 not be considered for SGPI/CGPI calculations.
-
 7.5. Framing/Modification of Course Curriculum
-
 A new course curriculum or modification to existing course curriculum in terms of changes in course
 structure and course syllabi require the approval of the SENATE before implementation. The proposal
 shall first be recommended by concerned DBPC. Thereafter, concerned Convener, DBPC will send the
@@ -802,9 +608,7 @@ recommendations of SBPC along with comments/suggestions shall be put up in SENAT
 through Dean (Academic). If a meeting of SENATE is not scheduled before implementation of modified
 curriculum then Chairman, Senate may approve the proposal which shall be ratified in the next SENATE
 meeting.
-
 7.6 Starting of New Bachelor Programme
-
 On the request of concerned DBPC of the Department, the proposal to start a new bachelor programme
 leading to B Tech/B Arch/ Dual Degree or equivalent, along with proper justification shall be submitted to
 Chairperson SBPC for deliberations and recommendations of SBPC. It shall be the responsibility of
@@ -812,23 +616,17 @@ concerned DBPC and the SBPC to look into the full details of infrastructure faci
 the programme, proposed intake, teaching scheme and syllabi, etc. The DBPC in such cases shall invite
 two external experts from reputed  Institute/research organization —(IITs/NITs/CFTI/Central
 University/Central Government research Organization), with the approval of Chairman, Senate.
-
 The recommendations along with comments/suggestions shall be placed in the SENATE through Dean
 (Academic) for its recommendations. The recommendations of the Senate shall then be forwarded to the
 BOG for approval.
-
 Ordinances for Bachelors Programmes 10
 National Institute of Technology Hamirpur
-
 8. EVALUATION AND GRADING SYSTEM FOR BACHELOR PROGRAMME
-
 The performance of the student is evaluated through a series of examinations and tests that are
 scheduled during the academic semester for a given course. Grading is the process to evaluate each
 individual student's performance and learning by applying standardized measurements of varying levels of
 achievement in a course. NIT Hamirpur assign letters grade in each course.
-
 8.1 Evaluation System
-
 The evaluation of students in a particular course shall be based on his/her performance in Continuous
 Semester Assessment (tutorials, assignments, class test, quizzes, laboratory work, viva, etc.), Mid
 Semester Examination, and End Semester Examination. The complete transparency shall be maintained
@@ -837,25 +635,19 @@ tests, and home assignments shall be done within reasonable time and shown to th
 answer sheets of the End Semester Examination will also be shown to the students after evaluation within
 reasonable time as per the Schedule of Academic Calendar. Similar practices shall also be followed
 during supplementary examination.
-
 For each course, there will be a course coordinator appointed by Head of respective Department. The
 course coordinator shall be responsible for setting the question paper, maintaining its secrecy, evaluating
 and awarding the grades. For the courses, where more than one faculty members are involved in
 teaching, one of them shall be appointed as course coordinator by Head of respective Department but
 question paper will be set by course coordinator in consultation with associated faculty members.
-
 8.1.1 Evaluation of Theory/Practical/Drawing/Engineering Workshop/ Programming & Coding
 Skills/ Studio Courses
-
 The weightages of various components for award of Grades in Theory/Practical/Drawing/Engineering
 Workshop/Programming & Coding Skills /Studio Courses shall be as under:
-
 A. Evaluation of Courses offered for B Tech/Dual Degree programmes
 There are varieties of courses which are offered to B Tech/Dual degree programme and their weightages
 of various components for award of Grades shall be as under
-
 e Courses having Lectures (Theory Courses)
-
 SN | Component Weightage
 Continuous Semester Assessment (Based on _ performance in
 1. ; ; 20%
@@ -864,44 +656,28 @@ assignments/quizzes/tests/tutorials, etc.)
 , (1’4 Hours)
 a 50%
 3. | End Semester Examination (03 Hours)
-
 Ordinances for Bachelors Programmes 11
 National Institute of Technology Hamirpur
-
 e Courses having Practical’s
-
 SN | Component Weightage
 Continuous Semester Assessment (Based on quantity and quality of
-
 1. | experiments/jobs, skills in handling equipment, performance in viva/tests, 60%
 accuracy of outcomes/features, etc.)
-
 2. | End Semester Examination (Performance in practical/job/test/quiz/viva, etc.) 40%
-
 e Courses of Engineering Workshop/Engineering Graphics/Programming &Coding Skills
-
 SN | Component | Weightage
-
 Continuous Evaluation
 Continuous Semester Assessment (Based on quantity and quality of
-
 1. | experiments/jobs/drawings, skills in handling equipment, performance in 60%
 viva/tests, accuracy of outcomes/features, etc.)
-
 End Semester Evaluation
-
 2. | Write up 20%
-
 3 a meer Examination (Based on quality of job/drawing/project/coding 20%
 skills
-
 B. Evaluation of Courses offered for B Arch Degree programme
-
 There are numerous courses which are offered to B Arch degree programme and their weightages of various
-
 components for award of Grades shall be as under:
 e Courses having Lectures and Tutorials (Theory Courses)
-
 SN_ | Component Weightage
 Continuous Semester Assessment (Based on_ performance in 0
 1. ; 30%
@@ -910,83 +686,56 @@ ar 20%
 2. Mid Semester Examination (1% Hours)
 ae 50%
 3. End Semester Examination (03 Hours)
-
 e Courses having Lectures and Practicals
-
 SN _ | Theory Component (Overall Weightage: 80%) Practical Component (Overall Weightage: 20%)
 Continuous Semester Continuous Semester Assessment
 Assessment (Based on (Based on quantity and quality of
-
 1. | performance in | 30% experiments/jobs, skills in handling | 50%
 assignments/quizzes/ equipment, performance in viva/tests,
 tests/tutorials, etc.) accuracy of outcomes/features, etc.)
-
 F og 20% End Semester Examination (Performance 6
-
 2. | Mid Semester Examination (1% Hours) in practical/job/test/quiz/viva, etc.) 50%
-
 og 50%
-
 3. | End Semester Examination (03 Hours)
-
 Ordinances for Bachelors Programmes 12
 National Institute of Technology Hamirpur
-
 e Courses having Practicals/Studios(Drawing Courses)/Workshops/Office Training/Dissertation
-
 SN | Component Weightage
 Continuous Semester Assessment (Based on quantity and quality of
 1. | experiments/jobs, skills in handling equipment, performance in viva/tests, 50%
-
 accuracy of outcomes/features/design problems, etc.)
 End Semester Examination (Performance in workshop activity,
 practical/job/test/quiz/viva/Portfolio, Studio work, etc.)
-
 50%
-
 e Architecture Design Thesis Course
-
 The weightages of various components for award of Grades in the Architecture Design Thesis Course
 shall be as under:
-
 S No | Particulars Weightage | Remarks
 1. | Mid Semester Evaluation 30% ,
 2. | End Semester Evaluation 50% To be awarded by the Committee
 3. | Continuous Semester Assessment 20% To be awarded by the Supervisor
-
 8.1.2 Evaluation of Project Work
-
 The Project shall normally be evaluated on the basis of quality of work carried out, the reports submitted
 and written as per the guidelines for project Report Writing (Annexure: RW), contents and presentation.
 Project Coordinator, appointed by HoD, shall act as Coordinator of all project Groups. Formation of Project
 groups shall be done by the Project Coordinator along with allotment of guide(s) to each group. Each
 Project Group shall be evaluated twice i.e. during Mid Semester and End Semester by a Committee as per
 the schedule mentioned in Academic Calendar.
-
 The Committee is to be constituted by the concemed HoD for the evaluation of projects work in
 consultation with DBPC of the Department as per the following composition:
-
 1. |HoD or his/her nominee Chairperson
-
 2. |Faculty members with different streams from the Department (minimum two) Members
-
 3. |One Faculty Member from other Department Member
-
 4, |Project Coordinator Member Secretary
-
 The letter grades need to be uploaded by the Project Coordinator and copy to be sent to the Academic
 Section. The evaluation shall be made as per the following criteria:
-
 S No | Particulars Weightage | Remarks
 1. | Mid Semester Evaluation 30% ,
 2. | End Semester Evaluation 40% To be awarded by the Committee
 3. | Continuous Semester Assessment 30% To be awarded by the Supervisor
-
 Successful demonstration of hardware project in general will entitle a group for better marks/grade
-
 Ordinances for Bachelors Programmes 13
 National Institute of Technology Hamirpur
-
 8.1.3 Summer/Industrial Training/Onsite/Office Training/Dissertation/Architecture Design Thesis
 All the Bachelor degree programme students shall get real-world work experience and an opportunity to
 learn and get some practical work experience in a specific field. During training students have to gain real-
@@ -994,30 +743,23 @@ world experience in their chosen field of study and to apply what they have lear
 real-world setting. Through training the students will be able to have a hands-on-experience and develop
 professional skills for applying their knowledge on the live projects. The training can be obtained within
 India or abroad.
-
 A. Evaluation of Summer/Industrial Training for B Tech/Dual Degree students
-
 B Tech/Dual Degree students are required to undergo 4-6 weeks of Summer/Industrial/Onsite Training
 after the end of sixth semester (during summer vacations) within India or abroad. The evaluation and
 award of grades for Summer/Industrial/Onsite training shall be done by Committee(s) constituted by HoD
 consisting of:
-
 1. |HoD or his/her nominee Chairperson
 2. — | Faculty Members from the Department (minimum two) Members
 3. | OIC (Training & Placement of the department) Convener
-
 The slots for evaluation/presentation for the Summer/Industrial Training undertaken by the students shall
 be mentioned in the Time Table of the concerned Department in the semester immediately following the
 Training. The Evaluation Committee(s) shall evaluate the students during these slots.
-
 Whereas, interested B Tech/Dual Degree students may also undergo Industrial Training/Internship after
 second/fourth semester (during summer vacations) for which No Objection Certificate may be obtained
 from the concerned HoD. However, there shall not be any evaluation for this Industrial Training/Internship
 and also it will not be mentioned in the Grade Report Card of the student.
-
 B. Evaluation of Industrial/Onsite/Office Training/Dissertation/Architecture Design Thesis for
 B Arch students
-
 B Arch students are required to undergo one semester Office Training during 8th/9th semester for a period
 of six months/one semester in the office of an Architect or an organization operating in an allied field of
 practice or research, duly approved by the institution, under the mentorship of an architect having
@@ -1027,47 +769,32 @@ Training in foreign country shall be done under the Registered Architect of that
 and monitored by the Head of the University or Institution.
 The evaluation and award of grades for Industrial/Onsite/Office Training shall be done by Evaluation
 Committee(s) constituted by HoD consisting of:
-
 1. _|HoD or his/her nominee Chairperson
 2. |Faculty Members from the Department (minimum two) Members
 3. | OIC (Training & Placement of the department) Convener
-
 Ordinances for Bachelors Programmes 14
 National Institute of Technology Hamirpur
-
 Similarly the evaluation and award of grades for Dissertation shall be done by Evaluation Committee(s)
 constituted by HoD consisting of:
-
 1. _|HoD or his/her nominee Chairperson
 2. |Faculty Members from the Department (minimum two) Member
-
 3. | Supervisor/Guide Member
-
 4. | Dissertation Coordinator Convener
-
 The course Architecture Design Thesis shall be evaluated twice i.e. during Mid Semester and End
 Semester by the Committee/Jury as per the schedule mentioned in Academic Calendar. The Mid
 Semester evaluation shall be carried out by a committee to be constituted by the concerned HoD in
 consultation with DBPC of the Department as per the following composition:
-
 1. HoD or his/her nominee Chairperson
-
 2. Faculty members from the Department Member
-
 3. Faculty Member from other Department (Nominated by Dean (Academic)) | Member
-
 4. Supervisor/Guide member
-
 5. Thesis Coordinator Member Secretary
-
 Whereas the End semester evaluation shall be carried out by a jury in which the member from other
 department will be replaced by an expert from outside institute. The external examiner shall be appointed
 by the Chairman, Senate out of a panel of experts (minimum five) submitted by the HoD in consultation
 with Convener, DBPC.
-
 The letter grades need to be uploaded by the Thesis Coordinator and copy to be sent to the Academic
 Section.
-
 The slots for evaluation/presentation for the Industrial/Onsite/Office Training/Dissertation, undertaken by
 students, shall be mentioned in the Time Table of the concerned Department in the semester immediately
 following the Training. The Evaluation Committee(s) shall evaluate the students during these slots.
@@ -1075,31 +802,23 @@ Whereas, interested B Arch Degree students may also undergo Industrial Training/
 fourth/sixth semester (during summer vacations) for which No Objection Certificate may be obtained from
 the concerned HoD. However, there shall not be any evaluation for this Industrial Training/Internship and
 also it will not be mentioned in the Grade Report Card of the student.
-
 8.1.4 Evaluation of General Proficiency
-
 General Proficiency shall be based on the participation, performance in various co-curricular activities and
 conduct of the student during the entire duration of the programme. The holistic evaluation of each student
 and award of grades for General Proficiency shall be done by Evaluation Committee(s) constituted by HoD
 of the concerned Department as per the following composition:
-
 Ordinances for Bachelors Programmes 15
 National Institute of Technology Hamirpur
-
 1. |HoD or his/her nominee Chairperson
 2. |Faculty members from the Department (minimum two) Members
 3. |OIC (Departmental Society) Convener
-
 OIC (Departmental Society) shall submit the final grades online as well as forward an authenticated copy
 of these grades to the HoD for onward transmission to Academic Section as per the schedule mentioned
 in Academic Calendar.
-
 8.1.5 Student Activity (LA/CA) Courses for 4th Semester B.Tech. Programmes
-
 There shall be various student activity related courses in the 4" Semester of B.Tech. Programmes as per
 NEP-2020, applicable for students admitted during the Academic year 2023-24 and onwards, as listed
 below:
-
 Sr.No. | Course Code | Title of Course Course _ Hours | Credit of Course
 per week
 1. SA-201 National Cadet Corps 2 1
@@ -1111,7 +830,6 @@ per week
 7. SA-207 Music, Dance, and Dramatics 2 1
 8. SA-208 Social Service and Discipline 2 1
 9. SA-209 Photography and Creative Art 2 1
-
 The student will have the option to choose one of the above courses. The maximum 120 students will be
 permissible for registration through respective faculty in-charges and concerned Head of the
 Department/Centre in any one of the above listed courses. The final allotment of the course batch shall be
@@ -1120,110 +838,71 @@ as per Time Table under the supervision of the concerned Faculty In-charge assig
 throughout the 4 semester. The continuous, mid-term & end term evaluation will be carried out based on
 the performance of the students by the respective Faculty In-charges associated with different activities as
 per applicable/existing grading system.
-
 8.2 Grading System
-
 The grading system is designed to provide a holistic assessment of a student's performance based on
 both formative and summative assessments. The Institute follows absolute grading system. A student
 shall be awarded a letter grade in each course he/she is registered for, indicating his/her overall
 performance in that course. There is separate grading scheme for the students of B Arch in order to satisfy
 the norms issued by the CoA.
-
 The following are the general guidelines for the award of grades:
-
 Ordinances for Bachelors Programmes 16
 National Institute of Technology Hamirpur
-
 1. All evaluations of different components of a course announced in the course plan shall be done in
 terms of marks for each student
 2. The marks of various components shall be added to get total marks secured on a 100-point scale
-
 w
-
 For any course, the respective table will be used to award grades corresponding to the secured marks
-
 4. Astudent, who does not appear in the End Semester Examination for any reason, shall be awarded F
-
 grade irrespective of his/her performance in the Internal Assessment
 5. A student, who fail to score at least 30% marks in the End Semester Theory Examination shall be
-
 awarded F grade irrespective of his/her overall score in the course
 The concerned Course Instructor/coordinator shall submit the final grades online as well as forward an
 authenticated copy of these grades to the HoD for onward transmission to Academic Section as per the
 schedule mentioned in Academic Calendar.
-
 A. Grading system for B Tech/Dual Degree Students
-
 There are eight letter grades: A, AB, B, BC, C, CD, D and F. The correspondence between letter grades,
 grade points (on a 10 point scale), percentage marks and academic performance is given below:
-
 Letter Grade A AB B BC Cc cD D F
-
 Grade Point 10 9 8 7 6 5 4 0
-
 Marks % 285 <85 8275 <75 &265 <658255 | <55 &=50 <50 &245 <45 8240 | <40
-
 Academic . Above : :
-
 Performance Outstanding Excellent Very Good Good Average Average Marginal Fail
 B. Grading system for B Arch Degree Students
-
 There are seven letter grades: A, AB, B, BC, C CD and F. The correspondence between letter grades,
-
 grade points (on a 10 point scale), percentage marks and academic performance is given below:
-
 Letter Grade A AB B BC Cc cD F
-
 Grade Point 10 9 8 7 6 5 0
-
 Marks % 285 <85 &275 <75 &265 <658255 <55 &250 <50 &245 <45
-
 Academic . Above :
-
 Performance Outstanding Excellent Very Good Good Average Average Fail
-
 As per CoA regulations the pass percentage in each course should not be less than 45%.
-
 Ordinances for Bachelors Programmes 17
-
 National Institute of Technology Hamirpur
-
 8.3. Grade Point Index (GPI)
 The SGPI (Semester Grade Point Index) is an indicator of the overall academic performance of a student
 in all the courses he/she has registered during a given semester. For example, if the grades awarded to a
 student are G1, G,..., Gm in courses (say, m) with corresponding credits C1, C2,..., Cm, the SGPI is given
 by
 C,G, +C,G, +..+C,,G,,
-
 C,+C, +...4+C,,
-
 SGPI =
-
 Similarly, the CGPI (Cumulative Grade Point Index) indicates the overall academic performance of a
 student in all the courses registered up to and including the latest completed semester/supplementary
 examination. It is computed in the same manner as the SGPI, considering all the courses (say, n), and is
 given by
-
 In case of a specific query by students/employers/others regarding conversion of CGPI into percentage
 marks, the formula “% Marks = 10x(CGPI)” will be adopted for notional conversion. However, the Institute
 shall not issue any separate certificate/document in this regard.
-
 8.4 Improvement in CGPI
 A student who has passed all the requisite courses of a programme but fails to score minimum requisite
-
 CGPI for the award of degree, may be allowed to improve, on case to case basis with the approval of
-
 Chairman Senate provided the course is running in the Semester. The Dual Degree Students may be
-
 allowed to improve the CGPI in the 9tt/10th Semester. For improvement in CGPI the students shall have
-
 to:
-
 1. appear in Supplementary Examination in the course(s) where B Tech/Dual degree student has scored
 D/F grade(s), provided he/she is allowed to continue in the programme as per Clauses of Section 9.
 Marks in Continuous Semester Assessment and Mid Semester Examination shall remain same as per
 the previous record.
-
 2. Continuous Semester Assessment and Mid Semester Examination of the course (theory, practical,
 minor/major project, etc.), where B Tech/Dual degree student has scored D/F grade(s) and has less
 than 50% marks in these components. However, the student will only be allowed to register after
@@ -1232,28 +911,18 @@ alongwith students of regular semester at that point of time where this course i
 or even semester). The requests of the student to resolve any clash in Time Table and allotment of
 hostel will not be entertained. Marks secured by the student in Continuous Semester Assessment and
 End Semester Examination during this semester registration will be counted for awarding the grade.
-
 Ordinances for Bachelors Programmes 18
 National Institute of Technology Hamirpur
-
 8.5 Supplementary Examination
-
 There shall be a Supplementary Examination every year during June-July as per the schedule mentioned
-
 in Academic Calendar. The weightage of Supplementary Examination will be same as for End Semester
-
 Examination of respective course. Following are the eligibility criteria to appear in Supplementary
-
 Examination:
-
 1. A student who had registered for a course during the regular semester and who got F grade after
 appearing in the End Semester Examination.
-
 2. A student who had registered for a course during the regular semester, but, could not appear in the
 End Semester Examination.
-
 8.6 | Grade Report Card and Transcript
-
 A copy of Grade Report Card shall be issued to each student at the end of the semester. A duplicate copy,
 if required, can be obtained on payment of the prescribed fee (Annexure: BPP-02). Transcript contains the
 record of the grades obtained in each semester and all Courses, Projects and Seminars registered by a
@@ -1262,56 +931,42 @@ repeated and/or replaced or passed during supplementary examination. Transcript 
 on payment of the prescribed fee. The Grade Report Card and Transcript of a student can be withheld by
 the Institute if he/she has not paid his/her dues, or if there is a case of indiscipline pending against
 him/her.
-
 9, ACADEMIC PERFORMANCE REQUIREMENTS FOR BACHELOR DEGREE
 B.Tech./B.Arch./Dual Degree student is required to complete successfully all prescribed courses of the
 approved Course Structure of concerned academic disciplineforogramme and attain a minimum
 prescribed CGPI. The minimum CGPI requirement for award of B Tech/B Arch/Dual degree is 5.0 with no
 F grade in any course.
-
 9.1 Attendance Requirement
 Attendance in all classes is compulsory; therefore, all B Tech/B Arch/Dual Degree students are normally
-
 required to have full (100%) attendance in each course. A student having attendance less than 70% in a
 course shall not be allowed to appear in End Semester Examination of that course and will be declared
 Fail and awarded “F” grade in that course. However, a student having deficient attendance, less than 70%,
 may be given relaxation to the maximum extent of 10% under following circumstances:
-
 (i) Participation in extra-curricular and co-curricular activities or any other participation within or
 outside the institute duly approved and notified by Dean (SW) on the recommendation of
 concerned faculty in-charge.
-
 (ii) Student could not attend classes due to illness, the proof with justification need to be submitted
-
 (iii) Due to family/natural calamities or any other valid reason to justify the claim for condonation of
 attendance
-
 Ordinances for Bachelors Programmes 19
 National Institute of Technology Hamirpur
-
 9.2 Minimum Duration Requirement For Degree
 The following table lists the minimum residential duration allowed in the Bachelor Programmes for
-
 graduation. To satisfy the minimum residential period requirement, registration must be over consecutive
 semesters.
-
 Programme Minimum Residential Period
 B Tech 4 Years
 B Arch 5 Years
 Dual Degree 5 Years
-
 9.3. Performance Through Carry Over System
 The Institute shall follow carry over system (Except for B Arch students who scores less than 45% in
-
 Architectural Design Course during any semester) for promotion of students to next semester. In case of B
 Arch Degree Programme a student who does not qualify Architectural Design Course even after availing
 the special chance (as mentioned in 6.1 (4) or supplementary examination, the student cannot register for
 the next semester and will have to register in the same semester in the subsequent year to complete the
 said Architectural Design Course.
-
 The hostel facility shall not be made available to a student after he/she completes minimum residential
 period of the programme.
-
 A student getting CGPI less than 4.0 for BTech/Dual degree programme and less than 4.5 for B Arch
 degree programme at the end of even semester (including Supplementary Examination) is to be issued
 advisory note for his/her improvement of performance by the concerned HoD of the Department in the
@@ -1319,16 +974,11 @@ beginning of odd semester. The parents/guardians of such students are to be acco
 their ward is not serious in his/her studies; therefore, it shall be the sole responsibility of the student for
 clearing the backlog. Further, it is to be informed that no relaxation will be entertained with regard to the
 following:
-
 1. Adjustment of time table slot.
-
 2. Date sheet of Mid/End Semester examination/supplementary examination.
-
 3. Attendance benefit.
-
 9.4 Academic Performance Requirement for Continuation in the Programme and
 Award of Degree
-
 A student is required to complete the performance requirement for Degree in terms of minimum credits as
 mentioned in approved course curriculum of concerned programme and academic discipline.
 1. The minimum CGPI for award of B Tech/B Arch Degree is 5.0
@@ -1336,88 +986,63 @@ mentioned in approved course curriculum of concerned programme and academic disc
 Degree, all exceptions to the above conditions will be dealt with as per following:
 (a) If a student passes the required courses for B Tech with CGPI less than 5.0, then the student
 will be permitted to improve the CGPI as per the provisions under Clause 8.4. In case B Tech
-
 Ordinances for Bachelors Programmes 20
 National Institute of Technology Hamirpur
-
 CGPI of 5.0 or more is achieved. the student will be eligible for award of B.Tech. degree and in
 case the same is not achieved, no degree (B Tech or M Tech) will be awarded to the student
-
 (b) If a student passes required courses for Dual Degree Programme with B Tech CGPI of 5.0 or
 more but M Tech CGPI less than 6.0, the student will be permitted to improve the M Tech CGPI
 as per the provisions in Masters Ordinances. In case, M Tech. CGPI of 6.0 or more is achieved
 the student will also be eligible for award of M.Tech. degree
-
 10. PROCEDURE FOR AWARD OF BACHELOR DEGREE
-
 A Bachelor degree programme Student shall be eligible for award of degree if he/she satisfy the academic
 requirements and have a good conduct during his/her stay in the institute.
-
 10.1 Requirement for Degree
 A student shall be deemed to qualify for Bachelor Degree of the Institute, if he/she has
-
 1. Passed all the prescribed courses
-
 2. Attained the minimum required CGPI of 5.0 with no course having F grade
 3. Completed the residential requirements as per Clause 9.2
-
 4. Satisfied all the requirements specified by the concerned Department, if any
 5. Satisfied all the requirements specified by the SENATE and the Ordinances
 In addition, the student should have paid all the dues to the Institute and Hostels.
-
 10.2 Award of Degree
-
 A student, who completes all the academic requirements specified in Clause 9.4 and Clause 9.2, shall be
 eligible for the award of B Tech/B Arch Degree. Names of such students shall be recommended by the
 SENATE to the BoG for the award of the appropriate degree in the ensuing convocation. The degree shall
 be awarded only after the BoG accords its approval. However, a student eligible for the award of Degree
 may be issued Provisional Degree Certificate before the Convocation. A student can request for issuing of
 such certificate(s) my submitting the request on the prescribed Performa (Annexure: BPP-02).
-
 10.3 Termination of Programme
 The Programme of a student may be terminated on the recommendation of DBPC, SBPC and Dean
-
 (Academic) with the approval of Chairman, Senate if he/she is not able to achieve minimum CGPI
 requirement, after availing repeated supplementary examination attempts, as mentioned in Clause 9.4.
 However, such candidate can request for issuing appropriate certificate as per the ME/ME policy of the
 NEP-2020.
-
 In rare exceptional cases on the basis of recommendation of duly constituted committee, the SENATE
 may not recommend a student, who is found guilty of some major offence, to the BoG for the award of a
 degree even if he/she has satisfactorily completed all the academic requirements from time to time.
-
 Ordinances for Bachelors Programmes 21
 National Institute of Technology Hamirpur
-
 10.4 Withdrawal of Degree
-
 Under extremely exceptional circumstances, where any gross violation of the graduation requirements is
 detected at a later stage, the Senate may recommend to the BoG for the withdrawal of Degree already
 awarded.
-
 11. HOLIDAYS, VACATIONS AND SEMESTER LEAVE
-
 A bachelor student shall be entitled for vacations and other leaves as per the eligibility.
-
 11.1 Holidays and Vacations
 Bachelor students are entitled to avail Mid Semester breaks, winter breaks and summer vacation as
-
 specified in the Academic Calendar. They are also entitled for holidays mentioned in the Academic
 Calendar and declared by the Institute from time to time.
-
 11.2 Semester Leave
 A student is not normally allowed to withdraw from the academic programme temporarily and is expected
-
 to complete his/her studies without any break. However, for bonafide reasons and/or in exceptional
 circumstances, a student may be allowed to avail leave for two semesters with prior approval of Chairman,
 Senate on the recommendation of DBPC, SBPC and Dean (Academic). Such semester leave shall not
 exceed two semesters during the entire period of the academic programme (applicable to B Tech/B Arch
 /Dual Degree students).
-
 Except for medical reasons, such leave would not normally be sanctioned before a student has completed
 first year of study. In no case, the total duration of the programme, shall exceed the maximum permissible
 duration, as applicable.
-
 Though, a semester leave hypothetically means a leave for one semester only, but due to the fact that
 courses/subjects offered in odd and even semesters in particular branch of Engineering/Architecture are
 mutually exclusive and also there is requirement of studying the courses/subjects of a semester before
@@ -1426,44 +1051,31 @@ result in semester leave of two consecutive semesters in one stretch. Therefore,
 to apply leave for two semesters on the prescribed performa (Annexure: BPP-05) and if approved, the
 student will be allowed to register for the semester (i.e. the semester in which he/she had discontinued for
 availing the leave) during next academic year and has to attend the regular classes.
-
 Registration fee already paid at the time of semester registration by the student shall be forfeited.
 However, if such leave is approved before the semester registration, the student needs not to register
 during the semester of leave.
-
 11.3 Absence without Sanctioned Leave
-
 Absence without sanctioned leave for more than four weeks continuously in a semester may result in the
 cancellation of registration for that semester on the recommendation of the DBPC, SBPC and Dean
 (Academic), and approval of Chairman, Senate.
-
 Ordinances for Bachelors Programmes 22
 National Institute of Technology Hamirpur
-
 11.4 Permission to Proceed to other Institutions
 A student may be permitted by the Chairman, Senate to precede to other academic institutions in India or
-
 abroad as a non-degree student so as to broaden his/her horizons and gain course-work experience. The
 following guidelines and procedures shall apply for this purpose:
-
 (a) A student, who satisfies the minimum eligibility conditions given below, may spend up to two
 regular semesters in any academic institution of repute in India or abroad with prior permission
 of the Chairman, Senate.
-
 (b) The semester spent as a non-degree student will be counted as a part of the time spent in the
 pursuit of the degree.
-
 (c) No scholarship/financial assistance shall be provided.
-
 11.4.1. Eligibility
 i. Completion of 100 credits of course work
-
 ii, A minimum CGPI of 8.5
 iii. There should not be any disciplinary action against the student
-
 11.4.2 Application Procedure
 i. The student shall apply to Dean (Academic) through HoD of parent Department
-
 (Annexure: BPP-06) giving details of the proposed programme and shall submit a statement of
 purpose with sufficient information about the Institution where he/she has chosen to spend time as
 anon-degree student
@@ -1475,32 +1087,23 @@ Chairman, Senate for approval, with leave of absence to the student to proceed a
 student to the selected Institution
 Any application for waiver of credits at NIT Hamirpur or transfer of credits from the other Institution shall be
 decided in accordance with the procedure given in section 11.4.3.
-
 11.4.3. Transfer of Credits and Waiver in-lieu thereof
 Within specific guidelines, students in the Bachelor degree programs may apply for transfer of credit or
-
 waiver of courses in his/her degree requirement based on coursework taken in other institution. All
 courses for anticipated transfer credit and course waiver must meet the following criteria:
 e Courses for which candidate registering in other institution must be officially documented as
 Bachelor degree level courses
-
 e Courses not graded with a letter grade (A, B, etc.) are not eligible for transfer credit. Official
 transcripts documenting the final grade(s) must be submitted in the parent department
-
 e Courses should not be studied in the past in the degree program
-
 Ordinances for Bachelors Programmes 23
 National Institute of Technology Hamirpur
-
 The Transfer Credit and Course Waiver policy applies to courses taken at external institutions is as
 follows:
-
 i. The permission to proceed to another institution as a non-degree student does not imply that the
 student will automatically get a waiver from the academic and other requirements of his/her
 ongoing degree programme at the Institute
-
 i. On return, the student may apply for a waiver of courses from his/her program template
-
 (Annexure: BPP-07) which he/she thinks are equivalent to the courses successfully completed
 at the outside Institute as a non-degree student. The student must submit an official transcript of
 the grades obtained by him/her at the outside Institute as a non-degree student and other
@@ -1517,34 +1120,24 @@ programme in parent institute. The academic credits for courses taken at other I
 transfer at the same numeric value as they are offered. However, in such cases, the name of
 course, credits earned and name of the Institution shall be mentioned in the Grade Report Card
 along with suitable credit mapping criterion
-
 Those students who are selected by the Institute, using prescribed rules and procedures, to proceed to
 any Institutional exchange programme will also be governed by the above clauses for the transfer of
 academic credits, waiver, etc.
-
 12. PERMISSION FOR ATTENDING THE CONFERENCE AND FINANCIAL ASSISTANCE
 The permission for presenting the paper in the National/International conferences in India and request for
 financial assistance, the student has to apply in the department on the prescribed form
 (Annexure: BPP-08) duly endorsed by his/her mentor/Project Guide. The candidate must attach following
 documents along with his/her application:
-
 (a) Acceptance letter of the paper/abstract in the conference
-
 (b) First page of the paper including title of the paper with authors names
-
 (c) Proof of the conference along with organizer details and registration fee details
-
 (d) Copy of last semester result
-
 In order to ensure that only quality papers are presented in reputed conferences organized by premier
 Institutions/Organizations, the DBPC of the department will deliberate on all these issues and verify that the paper is accepted for oral/poster paper presentation and he/she has not availed financial assistance to
-
 Ordinances for Bachelors Programmes 24
 National Institute of Technology Hamirpur
-
 attend conference earlier. The student can avail this facility only once in their B Tech/B Arch programme.
 The recommendation of the DBPC will be sent to the Dean (Academic) for final decision/permission.
-
 Further, the reimbursement of Conference Registration Fee and Travel Expenses shall be on the
 submission of actual payee receipts as per the following terms and conditions:
 (i) Request of the candidate for financial assistance will be considered only if it is duly recommended by his/her mentor/Project Guide
@@ -1554,276 +1147,162 @@ submission of actual payee receipts as per the following terms and conditions:
 (v) Permission letter issued by the office of Dean (Academic) for paper presentation in the
 conference and financial assistance
 A candidate fulfilling the above requirements will be considered for reimbursement of Conference Registration Fee and Travel Expenses to a maximum amount decided by the SENATE. The case will be forwarded by the concemed HoD to the accounts section.
-
 13. CONDUCT AND DISCIPLINE RULES
-
 Students shall conduct themselves within and outside the precincts of the Institute in a manner befitting
 the students of an Institute of National Importance.
-
 13.1 Code of Conduct
-
 Each student shall conduct himself/herself in a manner befitting his/her association with an Institute.
 He/she is expected not to indulge in any activity, which is likely to bring down the prestige of the Institute. He/she should also show due respect and courtesy to the faculty members, administrators, officers and
 employees of the Institute, and good neighborly behavior to fellow students. Due attention and courtesy is to be paid to visitors to the Institute and residents of the Campus.
-
 Lack of courtesy and decorum, unbecoming conduct (both within and outside the Institute), willful damage and/or removal of Institute property or belongings of fellow students, disturbing others in their studies, adoption of unfair means during examinations, breach of rules and regulations of the Institute, noisy and unseemly behavior and similar other undesirable activities shall constitute violation of the Code of Conduct for students. In all such matters, duly constituted committee(s) shall decide upon the penalties to be
 imposed.
-
 Ragging in any form is strictly prohibited and considered a serious criminal offence and violation of the code of conduct. Involvement of a student in ragging may lead to his/her expulsion from the Institute.
-
 13.2 Disciplinary Actions and Related Matter Violation of the Code of Conduct shall invite disciplinary action which may include punishment such as Reprimand, Disciplinary Probation, Fine, and Debarring from Examinations, Withdrawal of Scholarship
-
 Ordinances for Bachelors Programmes 25
 National Institute of Technology Hamirpur
-
 and/or Placement Services, Withholding of Grades and/or Degrees, Debarring from Residency,
 Cancellation of Registration of the Semester and even Expulsion from the Institute.
 For indiscipline of a student in a class, the course coordinator/teacher may
 i. Debar him from few subsequent classes for which he shall not be liable to get relaxation in
 attendance/favourable consideration in mercy appeal, and
 ii. Report the matter to Dean (Student Welfare) for necessary disciplinary action.
-
 13.3 Unfair Means
-
 The faculty member/invigilator/flying squad/Examination Cell shall bring cases of unfair means on a prescribed performa (Annexure: BPP-09) to the notice of the Dean (Academic) along with all the supporting evidences.
-
 Unfair means shall comprise of following:
-
 Copying from the papers/mobile/electronic gadgets, or materials in the possession of the student Possession of the relevant material
-
 Gross indiscipline in examination hall
-
 Malpractices in Examination Hall observed by the invigilator leading to breach of the sanctity of the examination
-
 All such cases shall be looked into by an Unfair Means Committee (UMC) consisting of the following:
-
 1. |Dean (Academic) Chairperson
 2. |Dean (Student Welfare) Member
-
 3. | Chairperson, SBPC Member
-
 4. | Chairperson, SMPC Member
-
 5. |Chairperson, SDPC Member
-
 6. | Concerned HoD Member
-
 7. |PI/FI (Training & Placement) Member
-
 8. | Associate Dean (Examination) Member
-
 9, | Assistant Registrar (Academic Section) Secretary
-
 Dean (Academic) shall propose the UMC for approval/nomination of the Chairman, Senate. The tenure of
 SENATE Nominees shall be two years from the date of such nomination made by Chairman, Senate.
-
 UMC shall meet within reasonable time after declaration of Semester/Supplementary Examination result.
 The Committee shall give opportunity to the student concerned and recommend the punishment. The
 UMC may decide the level of punishment as deemed suitable, on case to case basis and ensure that
 consistency is maintained while handling similar cases.The recommendations of the UMC shall be
 implemented after getting the approval of the Chairman, Senate/Director.
-
 A student who feels aggrieved with the punishment awarded may, however, appeal to the Chairman, Senate stating clearly the case and explaining his/her position for seeking reconsideration of the decision.
-
 Ordinances for Bachelors Programmes 26
 National Institute of Technology Hamirpur
-
 13.4 Stay at Hostel
-
 The Dean (Student Welfare), Chief Warden, Warden of a Hostel has the power to reprimand, impose fine or take any other suitable measure against a resident who violates either the Code of Conduct or Rules and Regulations pertaining to the Hostels.
-
 Any major violation of the Code of Conduct by an individual or by a group of students can be referred by
 the authorities to a Board of Discipline (BoD). Constitution of BoD shall be as under:
-
 1. |Dean (Student Welfare) Chairperson
 2. | One Faculty (to be Nominated by the Director) Member
-
 3. | PI/FI (Training & Placement) Member
-
 4. | Concerned HoD Member
-
 5. | Concerned Warden Member
-
 6. | Associate Dean (Hostel Activity and Discipline) Member
-
 7. |Assistant Registrar (Student Welfare Section) Secretary
-
 A student, teacher or other functionary of the Institute can report case of misconduct to this Committee   onsideration. Further, in very exceptional circumstances, the Director may appoint a special committee to investigate and/or recommend appropriate action for any act of gross indiscipline involving an individual or a number of students, which, in his/her view, may tarnish the image of the Institute. The recommendation for any action, including expulsion of a student from the Institute, shall be referred to the SENATE for its final decision.
-
 13.5 Appeal Against Termination
-
 A student whose programme is terminated/cancelled on account of inadequate academic performance or otherwise has the right to appeal to the Chairman, Senate for reconsideration through DBPC and SBPC. While making the appeal on the prescribed performa (Annexure: BPP-10), he/she is expected to  ive reasons for his/her poor academic performance and/or to explain why his/her position merits reconsideration. The SENATE shall take a final decision after considering all the available inputs. However, the Chairman, Senate may not entertain any further appeal for review unless substantial additional information is brought to his/her notice. The SENATE normally shall not entertain the appeal
 more than two times from the same student.
-
 14. AWARD OF STIPENDS AND SCHOLARSHIPS
-
 A number of Stipends, Scholarships, Endowment Scholarships/Fellowships, etc. are awarded to the undergraduate students according to the rules and procedures laid down by the awarding agencies and/or Institute from time to time.
-
 These Scholarships, etc. shall be liable to be withdrawn, partially or wholly, in case of misconduct, deliberate concealment of material, facts and/or giving false information.
-
 Ordinances for Bachelors Programmes 27
 National Institute of Technology Hamirpur
-
 A student leaving the Institute on his/her own accord without completing the programme of study may be required to refund the amount of Scholarship, etc. received during the Academic Session in which he/she leaves the Institute.
-
 15. AWARD OF PRIZES AND MEDALS
-
 To promote and recognize academic excellence, constructive leadership and overall growth and development of students, the SENATE may award a number of Prizes and Medals, established by the Institute on its own or through endowments/grants made by donors, with the approval of the BoG 
 The SENATE shall determine the general policy regarding recommendations for the award of different types of Prizes and Medals available to Institute students. The detailed norms and conditions for the award of various Prizes and Medals (contained in the brochure entitled “Rules and Procedures for Prizes and Medals’ of the Institute) shall be framed by the SENATE from time to time.
-
 16. INTERPRETATION OF CONTENTS OF BACHELORS ORDINANCES
-
 16.1 General
-
 These Ordinances shall be in force immediately after the approval of the SENATE/BoG NIT Hamirpur. Notwithstanding anything contained in these Ordinances, all categories of students/candidates shall be governed by the Rules & Regulations framed by the SENATE in this behalf and in force from time to time. Also, the SENATE reserves the right to modify/amend without notice, the curricula, procedures, requirements and rules pertaining to its Bachelor Degree Programmes.
-
 16.2 Interpretations
 Any doubt or dispute arising about the interpretations of the Rules & Regulations shall be referred to the Chairman, Senate whose decision shall be the final.
-
 16.3 Waiver of Requirements in Special Cases
 The procedures and requirements stated in these Ordinances, other than those in Clauses covering Eligibility, Admissions and Academic/Programme Requirements may be waived in special circumstances by the Chairman, Senate on the recommendation of the DBPC, SBPC and Dean (Academic). All such exceptions shall be reported to the SENATE for ratification.
-
 16.4 Jurisdiction
-
 These ordinances set out the procedure and requirements of the B Tech/B Arch/Dual Degree  
 of study that fall under the jurisdiction of the SENATE, NIT Hamirpur. Further, any legal dispute arising from this set of Regulations shall be limited to the legal jurisdiction determined by the location of the Institute and not that of any other parties.
-
 National Institute of Technology Hamirpur
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 {An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure-BP#l
 Bachelor Programmes
-
 Bachelor of Technology (B Tech): 4 Years (8 Semesters)
-
 Branch Department/Centre
-
 Chemical Engineering Chemical Engineering (DoCHE)
-
 Civil Engineering Civil Engineering (DoCE)
-
 Computer Science & Engineering Computer Science & Engineering (DoCSE)
 Electrical Engineering Electrical Engineering (DoEE)
-
 Electronics & Communication Engineering Electronics & Communication Engineering (DoECE)
 Mathematics and Computing Mathematics and Scientific Computing (DoMSC)
 Materials Science & Engineering Material Science & Engineering (DoMSE)
 Mechanical Engineering Mechanical Engineering (DoME)
-
 Engineering Physics Physics and Photonics Science (DoPPS)
-
 Bachelor of Architecture (B.Arch.): 5 Years (10 Semesters)
 Branch Department
 Architecture Architecture (DoArch)
 Dual Degree Programmes
-
 Dual Degree (B Tech & M Tech): 5 Years (10 Semesters)
-
 Branch Department
-
 Computer Science & Engineering Computer Science & Engineering (DoCSE)
 Electronics & Communication Engineering Electronics & Communication Engineering (DoECE)
-
 Ordinances for Bachelors Programmes
 National Institute of Technology Hamirpur
-
 wsdia vtetfrel dear efiege
 sage (fe.4-) — 177 005 (HIRd)
-
 [ FRea Uo Ret Hareta S ded vo wesla wed oT We |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-01
 Application for Academic Matter
-
 Name of Student
-
 Roll Number
-
 Programme (tick v appropriate) | B Tech /B Arch / Dual Degree
-
 Department
-
 Mobile and Email Mobile: Email:
-
 Description of the Request/Problem
-
 Date: Signature of the Student
-
 For Official Use
-
 Application Received On: Signature of Dealing Assistant (Department)
-
 Remarks/Decision of HoD
-
 Signature of HoD
 Date:
-
 Forwarded for Necessary Action (Convener DBPC / Dealing Assistant / )
-
 Ordinances for Bachelors Programmes Il
-
 National Institute of Technology Hamirpur
-
 wera veatRrel dean erg
-
 ergy (fH) — 177 005 (IRA)
-
 ( ARea Uren Rat darcy @ ded vo wela ved wr Gers |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Application for Issuing Certificates/Documents
-
 Annexure: BPP-02
-
 Name of Student
-
 Roll Number
-
 Programme (tick “ appropriate)
-
 B Tech/B Arch / Dual Degree
-
 Department
-
 Semester
-
 Mobile and Email
-
 Mobile:
-
 Email:
-
 Certificate (s)/Document(s)
 Required (tick “ appropriate)
-
 = Bona-fide Certificate
-
 (Mention Semester Number(s)
-
 = Attested/erified Copy of Semester Result
-
 = Duplicate Semester Grade Report Card [Copy of FIR/Police Complain for Loss]
-
 = No Objection Certificate
 = Character Certificate
 = Migration Certificate
-
 = Transcript
-
 = Any Other (give Description)
-
 Date: Signature of the Student
 For Official Use
 Recommendation of Department
@@ -1831,155 +1310,87 @@ Signature of HoD
 Date:
 Application Forwarded to:: AR/DR (Academic Section)
 Ordinances for Bachelors Programmes Il]
-
 National Institute of Technology Hamirpur
-
 waste vlethrel dear siege
 wiege (f8.9.) — 177 005 (ATR)
-
 [ aa Uo fen wares } dea we
-
 NATIONAL INSTITUTE OF TECH
-
 ws qed ST UIT |
 NOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-03
 Clause 5.3
-
 Application for Withdrawal of Admission
-
 Name of Student
-
 Roll Number
-
 Department
-
 Programme (tick “ appropriate)
-
 B Tech/B Arch / Dual Degree
-
 Present Semester
-
 Mobile and Email (of the Student)
-
 Mobile:
-
 Email:
-
 Address
-
 Mobile (of Parent/Guardian)
-
 Reasons of Withdrawal
-
 Declaration
-
 | would like to withdraw my admission from NIT Hamirpur. | request to refund the fee/dues paid as per the Institute refund rules.
-
 Date:
-
 Signature of the Student
-
 Consent of Parent/Guardian
-
 Signature of Parent/Guardian
 Date:
-
 For Official Use
-
 Recommendation of Department
-
 Signature of Convener DBPC
 Date:
-
 Signature of HoD
 Date:
-
 Application Received On:
-
 Signature of Dealing Assistant (Academic Section)
-
 Recommended by
-
 Dean (Academic)
-
 Approved by
-
 Chairman Senate
-
 Ordinances for Bachelors Programmes
-
 National Institute of Technology Hamirpur
-
 wssla wtetRrat dean siege
 egy (f8.4-) — 177 005 (HIRAI)
-
 ( FIR Uren Rent area S ded We US Ae oT Ue |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-04
 Clause: 6.4
-
 Application for Exiting the Programme under Multiple Entry/Multiple Exit policy of NEP-2020
-
 Name of Student
-
 Roll Number
-
 Programme (tick “ appropriate) B Tech/B Arch / Dual Degree
-
 Department
-
 Semester
-
 CGPI and Credits earned
-
 Mobile and Email Mobile: Email:
-
 Reasons for Exiting the Programme
-
 Signature of the Parents/guardian Signature of the Student
-
 For Official Use
-
 Recommendation of Department
-
 Signature of HoD (Minutes of the DBPC meeting along with recommendation for eligibility of the candidate in getting appropriate
 certificate as per clause 7.4)
 Date:
-
 Recommendation by Chairperson, SBPC
-
 Forwarded to: Office of Dean (Academic)
-
 Recommendation by Dean (Academic)
-
 Approved by Chairman Senate
-
 Ordinances for Bachelors Programmes Vv
-
 National Institute of Technology Hamirpur
-
 wsfra wletfray Wear
 BARS (f8.4.) — 177 005 (IRA)
-
 ( FIR Uren Rent area S ded We US Ae oT Ue |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-05
-
 Clause 11.2
 Application for Semester Leave
 Name of Student
@@ -1991,48 +1402,31 @@ Mobile and Email Mobile: Email:
 Reasons for Semester Leave
 Period of Leave (Semesters.......... ) | Semester and Semester.
 Declaration
-
 | would like to avail leave during the above mentioned period. | understand that the registration fee already paid for present
 semester shall be forfeited as per the Institute rules.
-
 Date: Signature of the Student
-
 Recommendation / Endorsement of Parent/Guardian
-
 Signature of Parent/Guardian
 Date:
-
 For Official Use
-
 Recommendation of Department
-
 Date of DBPC Meeting (held for Discussion of Case):
-
 Signature of Convener DBPC Signature of HoD
 Date: Date:
-
 Forwarded to Chairperson SBPC
-
 Minutes of SBPC Meeting (to be enclosed):
-
 Signature of Chairperson, SBPC Signature of Dean (Academic)
 Date: Date:
 Approved by - Chairman, Senate
-
 Ordinances for Bachelors Programmes VI
-
 National Institute of Technology Hamirpur
-
 wa vlathral der srg
 ergy (f8.4.) — 177 005 (AIR)
 ( Aa Vor Ren dares S ded ve US aed oT WRI |
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-06
-
 Clause: 11.4.2
 Application for Proceeding as Non-Degree Student
 Name of Student
@@ -2044,311 +1438,191 @@ Mobile and Email Mobile: Email:
 CGPI and Credit Earned
 Period of Leave ......... (Semesters) | From to
 Declaration
-
 | would like to join the Non-Degree Students Programme during the above mentioned period att ...............c:cccesceeeeeeeeeeeeees
 | understand that the registration fee if already paid for present semester shall be forfeited as per the Institute rules
-
 | hereby submit that | am not reprimanded, under disciplinary probation or expelled from the institute etc.
-
 | submit that | have read and understood the rules which will be applicable to me during this period
-
 | also submit that | will register for the course work in the institute where | am proceeding as a non-degree student
-
 | will not have any claim for financial assistance from parent institute
-
 | understand that the credits earned during as a non-degree student shall be included for CGPI calculation and Credit Report
 Card, if approved by the parent department
-
 Date: Signature of the Student
-
 Recommendation / Endorsement of Parent/Guardian
-
 Signature of Parent/Guardian
 Date:
-
 For Official Use
-
 Recommendation of Department
-
 Date of DBPC Meeting (held for Discussion of Case):
-
 Signature of Convener DBPC Signature of HoD
-
 Date: Date:
-
 Forwarded to: Office of Dean (Academic)
 Signature of Dean (Academic)
-
 Date:
-
 Approved by- Chairman, Senate
-
 Ordinances for Bachelors Programmes VII
-
 National Institute of Technology Hamirpur
-
 wa dlathrel dear sige
 BARGE (R-) — 177 005 (AA)
-
 ( ARG Uren Ren Fara S ced ve Usa ved oT WM |
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-07
 Clause 11.4.3
 Transfer Credit/Waiver Request Form
-
 Name of Student
-
 Roll Number
-
 Programme (tick “ appropriate) B.Tech. / B.Arch. / Dual Degree
-
 Department
-
 Registration Details before
 proceeding for Non-Degree Semester: Date:
 Students Programme
-
 Permission Letter No. Dated:
-
 Period of Leave
 From to
-
 Name of Institution as Non-Degree
 Student
-
 Course Code Course Name Semester/Year Grade
-
 For Official Use
-
 Recommendation of Department
-
 Date of DBPC Meeting (held for Discussion of Case): (Syllabus of
 courses studied during Non-Degree Students Programme to be
 submitted by the candidate for Transfer Credit/Waiver.
-
 Signature of Convener DBPC Signature of HoD
 Date: Date:
-
 Forwarded to Chairperson SBPC:
-
 Date of SBPC Meeting (Minutes of the Meeting to be enclosed):
-
 Signature of Chairperson, SBPC Signature of Dean (Academic)
 Date: Date:
 Approved by- Chairman, Senate
-
 Ordinances for Bachelors Programmes VII
-
 National Institute of Technology Hamirpur
-
 wea wenthret dena siege
 siege (fe.4.) — 177 005 (IKd)
 { FRa Uren Rent dara & ded we usta aed GT Ue |
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-08
-
 Clause 12
 Application for Financial Assistance to Attend Conference
-
 To
 The Dean (Academic)
 Sir,
-
 Kindly grant me financial assistance and leave from............ (0 re (0) re days as | have
 to attend the International/National Conference............ccccccccccesseetessreseseseseeeesteseesenettteenaenes to be
 A> | ree for paper/ooster presentation.
-
 Further, it is submitted that | have not availed any financial assistance facility of the institute earlier.
-
 (The proof of acceptance of paper/poster attached).
-
 Yours Obediently,
-
 (Signature)
-
 Name:
-
 Registration Number:
 Date:
-
 Recommended by: Mentor/Project Guide
 Forwarded by: | Convener, DBPC HoD
 Approved by: Dean (Academic)
-
 To be recorded in Departmental Bachelor Student File
-
 Ordinances for Bachelors Programmes IX
 National Institute of Technology Hamirpur
-
 zssra vleatfrey axa
 sarge (f8.9.) — 177 005 (AINA)
-
 { FRa Uren Rat Hares S ded vH wea qed oT Wer |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
 Annexure: BPP-09
 Clause 13.3
-
 Form for Reporting Cases Regarding Use of Unfair-Means
-
 Note:
 e One form should be used for one case only.
 e Please send one question paper along with the case(s)
-
 (A) To be filled in by the Instructor/Invigilator(s)/Member(s) of Observer Committee:
-
 1. Name of Examination 1 eevee ceeeeteeeentaeesetteeentneeeennteseneiteeenteees
 2. Name of student 1 eeeucteecesteeeesnteceeceteenceeeeenteeesntanesenees
 3. Registration No. Lee ceeeeeeeeeeeceecesneeeeeeecateeeeeeceetateeeseees
 4. Programme/Branch Lecce ceeeeeaeeeeeeeeneeaeeeescnseeeeeeeeesteeeeeenes
-
 5. Room No. cecceeceeeeeuesaeseaeecsteeeeseeeateeneenntenteeseeaes
 Subject Code Subject Name
-
 6. Subject/ Paper in which the
 student is suspected or reported
 to have used or attempted to use
 unfair means or shown disorderly
 conduct.
-
 7. Date and time of incident 1 be ceeceeeeceeeauseaeecstenteseteuteeneenstenteeseeaes
-
 8. Type of Unfair Means
-
 i. Copying from the paper/material
-
 ii. Possessing materials leading to Unfair-means
-
 iii. Copying from the answer booklet of
-
 neighbouring student
-
 iv. Misbehaved with invigilator
-
 Date... Signature and Full Name of the Instructor/Invigilator(s)/Member(s) of Observer Committee
-
 Ordinances for Bachelors Programmes
 National Institute of Technology Hamirpur
-
 (B) Student’s Statement:
 | have read the report of the Instructor/Invigilator(s)/Member(s) of Observer Committee made against
 me as given in column A and submit the following statements:
 (i) | undertake that this statement has been given by me under no pressure or fear.
 (ii) Do you agree with the report of the Instructor/Invigilator(s\/Member(s) of Observer Committee
 made against you? Yes/No
-
 (iii) If you agree with the report, then:
 (a) | What explanation have you to offer for possessing/using the unfair-means or for your
 misconduct/disorderly conduct as mentioned in the report?
-
 (b) Have any other thing to say, by way of self-defence or clarification?
-
 (iv) If you do not agree with the report then give your explanation, if any, in your defence against the
 report of the Instructor/Invigilator(s)/Member(s) of Observer Committee.
-
 (Signature of Student)
-
 (C) Statement of Witness, if any:
 Statement of Witness, if any, in case the student denies the allegations of the
 Instructor/Invigilator(s)/Member(s) of Observer Committee or refuses to give his/her statement on
 the spot or runs away from the examination hall without giving his/her statement.
-
 Name and Signature of Witness
-
 Ordinances for Bachelors Programmes XI
 National Institute of Technology Hamirpur
-
 wsla wethral dear s4Rg
 aaege (fe.4.) — 177 005 (AIR)
-
 [ aa wer Ren Haray G ded ve wey qed OT WT |
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
-
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure: BPP-10
 Clause 13.5
-
 Application for Mercy Appeal against Termination
-
 Name of Student
-
 Roll Number
-
 Programme (tick “ appropriate)
-
 B Tech/ B Arch/ Dual Degree
-
 Department
-
 Semester
-
 Mobile and Email
-
 Mobile: Email:
-
 Reasons of Mercy (attach Proof)
-
 Date:
-
 Signature of the Student
-
 Recommendation of the Convener, DBPC:
-
 Remarks of HoD:
-
 Signature with date
-
 Signature with date
-
 Observations of Chairperson, SBPC:
-
 Decision of Chairman, Senate
-
 Recorded in Academic Section
-
 Signature with date
-
 Signature with date
-
 Ordinances for Bachelors Programmes XI
-
 National Institute of Technology Hamirpur
-
 asia vathret dent SRG
 sage (fe.4.) — 177 005 (AIRd)
 [ ARa ero en Hares S ded vo USI qed ST WMA |
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Annexure-RW
-
 General Guidelines for Project Report Writing
-
 Format of Project Report
-
 1. Title Pages
 =" Outer title page
 =" Inner title page
-
 =" Copyright (on reverse side of inner title page)
-
 2. Preliminary Pages (page i, ii, iii, ...)
 =" Candidate’s declaration
 "= Acknowledgements
@@ -2357,9 +1631,7 @@ Format of Project Report
 "= List of figures
 "=" List of tables
 "=" List of abbreviations
-
 "= List of symbols
-
 3. Main body pages (1, 2, 3, ...)
 =" Introduction
 = Literature Review
@@ -2368,213 +1640,137 @@ Format of Project Report
 =" Conclusions and Scope for Future Work
 =" Research Publications, if any.
 =" References
-
 =" Appendices
-
 Ordinances for Bachelors Programmes XIII
 National Institute of Technology Hamirpur
-
 Description of Different Sections of a project
 General guidelines
-
 ¥ Times New Roman font of size 12 must be followed consistently
 throughout the project report
-
 ¥ 1% space throughout the text on both side of the paper
-
 ¥ Margins: Left - 38 mm, Right - 25 mm, Top -— 25mm, Bottom -— 25mm
-
 ¥Y Paper size: A4
-
 ¥ Units and symbols should conform to the international system of
 units
-
 ¥Y Avoid the use of jargon, nouns as adjectives, split infinitives,
 improper matching of subjects and verbs, changes of tense in mid-
 paragraph and redundancy and verbosity. More errors in spelling or
 typography leave an impression of carelessness on the examiners
-
 Abstract
-
 This section will contain statement of the problem, methods of
 investigation, major findings and main conclusion.
-
 Introduction
-
 This chapter will contain general introduction, scope of the work,
 objective of the study and chapter outline.
-
 Literature Review
-
 This chapter will contain a critical review of the literature,
 pertinent theory, experiment and the importance of the chosen problem.
-
 Design, Setup and Methodology
-
 The reporting on design, setup and methodology shall be presented in
 one or more chapters with appropriate chapter titles. Due importance
 shall be given to experimental setups, procedures adopted, techniques
 developed, methodologies developed and adopted.
-
 Results and Discussions
-
 ¥Y Brief description of the methodology, primarily the experimental
 design
-
 ¥Y The text should describe the results
 ¥Y The figure and table legends contains
-
 o Short title
-
 Ordinances for Bachelors Programmes XIV
 National Institute of Technology Hamirpur
-
 o Description of the symbols, if applicable
 o Description of the statistics used, if applicable
 ¥ The figure or table and their legend should appear on the same page
-
 ¥Y Avoid repeating a description of the results - keep the description
 of the results in the body of the results section and not in the
 figure or table legend
-
 ¥Y Emphasize the most important contributions of the project. The
 discussion must not merely recapitulate results or review the
 literature
-
 ¥Y It is essential to discuss the contribution of the project in
 relationship to the literature and to assess the significance of
 the findings
-
 Conclusions
-
 This chapter contains the major findings, main conclusions and future
 scope, if any.
-
 References
-
 There must be only one reference list for the entire project report in
 order of citation in the body of project report. Preferably use IEEE
 format for references.
-
 Appendices
-
 This section may contain tables and figures of data that are necessary
 to show but that are not part of the project report.
-
 Auxiliary Format
-
 Binding
-
 The evaluation copies of the project report may be spiral bound or
 soft bound. The final hard bound copies to be submitted after the oral
-
 examination will be accepted during the submission of project report
 with the following specification:
-
 Front and Back Covers’ Colour
 White
 Over Lettering
-
 Front: Black colour
-
 Ordinances for Bachelors Programmes XV
 National Institute of Technology Hamirpur
-
 Title of the Project
-
 B. Tech. Project
-
 By
 Name of the Candidate(s)
-
 (Registration Number: Candidate’s Registration Number)
-
 Name of the Department
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 Hamirpur (Himachal Pradesh) — 177 005, India
-
 Month, Year
-
 Ordinances for Bachelors Programmes XVI
 National Institute of Technology Hamirpur
-
 Title of the Project
-
 A Project
-
 Submitted in partial fulfillment of the
 requirements for the award of the degree
-
 of
 Bachelor of Technology
-
 by
 Name of the Candidate(s)
-
 (Registration Number: Candidate’s Registration Number)
-
 Under the guidance
-
 of
 Dr. Guide’s Name
-
 Name of the Department
-
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
 Hamirpur (Himachal Pradesh) — 177 005
-
 Month, Year
-
 Ordinances for Bachelors Programmes XVII
 National Institute of Technology Hamirpur
-
 Copyright © NIT HAMIRPUR (HP), INDIA, Year
-
 Ordinances for Bachelors Programmes XVII
 National Institute of Technology Hamirpur
-
 wea wentRrel dean siege
 sarge (fe.4.) — 177 005 (AIRa)
 [ FRa Gror Ret Harada S ded YH US Ae wT Geers |
 NATIONAL INSTITUTE OF TECHNOLOGY HAMIRPUR
-
 HAMIRPUR (H.P.) - 177 005 (INDIA)
 [An Institute of National Importance under Ministry of Education (Shiksha Mantralaya)]
-
 Candidate’s Declaration
-
 We hereby certify that the work which is being presented in the project report titled “Title of
 Project” in partial fulfillment of the requirements for the award of the Degree of Bachelor of
 Technology and submitted in the “Name of the Department”, National Institute of
 Technology Hamirpur, is an authentic record of our own work carried out during a period from
 “Starting Month Starting Year to End_Month End_Year” under the guidance of “Guide’s
 Name, Guide’s Designation, Name of the Department”, National Institute of Technology
-
 Hamirpur.
-
 The matter presented in this project report has not been submitted by me for the award of any
-
 other degree of this or any other Institute/University.
 Sd/-
-
 (Name of the Candidate(s))
-
 This is to certify that the above statement made by the candidate is correct to the best of my
-
 knowledge.
 Date: Sd/-
 (Guide’s Name)
 Guide’s Designation
-
 The Project Viva- Voce Examination has been held on o....... eee
-
 Signature of Guide(s)
-
 Signature of Head of Department
-
 Ordinances for Bachelors Programmes XIX
 National Institute of Technology Hamirpur
-
 Ordinances for Bachelors Programmes
-
 XX

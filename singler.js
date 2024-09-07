@@ -30,13 +30,13 @@ function writeTextFile(filePath, content) {
 async function main() {
     try {
         // Read the content of the file
-        let data = await readTextFile('data.txt');
+        let data = await readTextFile('ordinances.txt');
         
         // Replace double newlines with a single newline
         const updatedData = data.replace(/\n\n+/g, '\n');
         
         // Write the updated content back to the file
-        await writeTextFile('data.txt', updatedData);
+        await writeTextFile('ordinances.txt', updatedData);
         
         console.log('Double line gaps replaced with single line gaps successfully!');
     } catch (error) {
